@@ -1,12 +1,16 @@
 ## Maria Jenkins
 
-I am a software engineering student at Flatiron School. In my spare time, I play chess.
+I am a software engineer. In my spare time, I play chess.
 
 ## Recent Projects
 
 **Color Order** [Repo](https://github.com/e4c5Nf3d6/phase-5-project)
 
 Made for a hair salon to streamline color ordering.
+
+**Chess Library** [Repo](https://github.com/e4c5Nf3d6/phase-4-project)
+
+Search, add, and save chess games.
 
 **Lichess Search** [Repo](https://github.com/e4c5Nf3d6/phase-1-project) | [Demo](https://e4c5nf3d6.github.io/phase-1-project/)
 
