@@ -1,6 +1,6 @@
 ## Maria Jenkins
 
-I am a software engineer. In my spare time, I play chess.
+I am a software engineer and web developer. In my spare time, I play chess.
 
 ## Recent Projects
 
